@@ -6,6 +6,10 @@ public class GitSample
 	{
 		System.out.println("m1---A");
 	}
+        public void m2()
+	{
+		System.out.println("m2--- GitHub");
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("GitSample---Main");
