@@ -12,7 +12,11 @@ public class GitSample
 	}
   	public void m3()
 	{
-		System.out.println("m3 ---- GitHub")
+		System.out.println("m3 ---- GitHub");
+	}
+	public void m4()
+	{
+		System.out.println("m4 ---- GitHub");
 	}
 	public static void main(String[] args) 
 	{
